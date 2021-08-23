@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Diego
-#### Cybersecurity Enthusiast & Geek 👨‍💻
+#### <span style="color:green;"> Cybersecurity Enthusiast & Geek <span> 👨‍💻
 ![Cybersecurity Enthusiast & Geek 👨‍💻](https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg)
 
 ‍
