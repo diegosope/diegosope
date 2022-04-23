@@ -15,4 +15,4 @@
 
   ### Snake Contribution :snake:
   
-![snake gif](https://github.com/diegosope/diegosope/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/diegosope/diegosope/blob/output/github-contribution-grid-snake.svg)
