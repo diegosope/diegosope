@@ -15,4 +15,4 @@
 
   ### Snake Contribution :snake:
   
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/diegosope/diegosope/blob/output/github-contribution-grid-snake.gif)
