@@ -15,3 +15,4 @@ Habilidades: HTML / CSS /  JS / MySQL / Bash / Kali / CTF ...
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosope&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
+![snake gif](https://github.com/diegosope/diegosope/blob/output/github-contribution-grid-snake.gif)
