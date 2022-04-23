@@ -1,12 +1,17 @@
-### Hola 👋, Mi nombre es Diego
+### Buenas! Mi nombre es Diego 👌
 #### Cybersecurity Enthusiast & Geek 👨‍💻
-![Cybersecurity Enthusiast & Geek 👨‍💻](https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg)
+![Cybersecurity Enthusiast & Geek 👨‍💻](https://w.wallhaven.cc/full/yj/wallhaven-yjvppx.jpg)
 
 ‍
 
-Habilidades: HTML / CSS /  JS / MySQL / Bash / Kali / CTF
+Habilidades: HTML / CSS /  JS / MySQL / Bash / Kali / CTF ...
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diegosope)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diego-sg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://minibio-diegosg.vercel.app/)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/diegosope)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/diego-sg/)  [<img src='https://img.shields.io/website-up-down-green-red/http/monip.org.svg' alt='website' height='40'>](https://minibio-diegosg.vercel.app/)  
 
+<div align="center">
+  <a href="https://github.com/diegosope">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosope&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  ![Snake animation](https://github.com/diegosope/diegosope/blob/output/github-contribution-grid-snake.svg)
