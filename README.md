@@ -14,8 +14,6 @@
  [<img src='https://img.shields.io/badge/Website-Miniweb-blueviolet' alt='website' height='40'>](https://diegosope.github.io/)
  
  ##
-
- ![tryhackme stats](https://raw.githubusercontent.com/diegosope/diegosope/master/assets/thm_propic.png)
   
 <div align="center">
   <a href="https://github.com/diegosope" target="_blank">
