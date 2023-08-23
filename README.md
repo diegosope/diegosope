@@ -1,6 +1,6 @@
 
 ### Buenas! Mi nombre es Diego :ok_hand: :shipit:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Diego+-+aka+p4p1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Diego+-+aka+m4rimo)](https://git.io/typing-svg)
 
 #### Cybersecurity Enthusiast & Geek 👨‍💻
 ![Cybersecurity Enthusiast & Geek 👨‍💻](https://w.wallhaven.cc/full/yj/wallhaven-yjvppx.jpg)
