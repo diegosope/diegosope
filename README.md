@@ -17,7 +17,6 @@
  
  ##
 
- [comment]: <> ( ![tryhackme stats](https://raw.githubusercontent.com/diegosope/diegosope/main/assets/thm_propic.png))
   ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/diegosope.png)
   
 <div align="center">
