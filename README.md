@@ -17,7 +17,7 @@
  
  ##
 
-  ![tryhackme stats](https://raw.githubusercontent.com/diegosope/diegosope/master/assets/thm_propic.png)
+  ![tryhackme stats](https://tryhackme.com/p/diegosope)
   
 <div align="center">
   <a href="https://github.com/diegosope" target="_blank">
